@@ -1,6 +1,6 @@
 # More-on-NumPy
 
-Due date: Thursday, December 4th at 11:59 PM
+**Due date:** Thursday, December 4th at 11:59 PM
 
 **Read the attached paper:**
 
