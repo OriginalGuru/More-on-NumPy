@@ -2,7 +2,11 @@
 
 Due date: Thursday, December 4th at 11:59 PM
 
-Work through the attached notebook and complete the cells with the comment
+**Read the attached paper:**
+
+P. W. Anderson, _More Is Different._ Science **177**, 393-396 (1972). {DOI:10.1126/science.177.4047.393}[DOI:10.1126/science.177.4047.393]
+
+**Work through the attached notebook** and complete the cells with the comment
 ``` python
 # COMPLETE THIS TASK
 ```
